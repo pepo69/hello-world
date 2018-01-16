@@ -1,3 +1,4 @@
 # hello-world
-my first real experience with github
-Trying to follow the guide
+my first real experience with github.
+
+Trying to follow the guide.
